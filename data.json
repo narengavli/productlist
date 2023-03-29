@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "topproduct": true,
+        "city": "Surat",
+        "type": "1 BHK",
+        "name": "Swami Vivekanand",
+        "area": "710 sqft",
+        "price": 15000,
+        "address": "SVNIT Surat",
+        "image": "./img/home/home-1.jpg"
+    },
+    {
+        "id": 2,
+        "topproduct": true,
+        "city": "Surat",
+        "type": "2 BHK",
+        "name": "Sarabhai Bhavan",
+        "area": "985 sqft",
+        "price": 31000,
+        "address": "SVNIT Surat",
+        "image": "./img/home/home-2.jpeg"
+    },
+    {
+        "id": 3,
+        "topproduct": true,
+        "city": "Surat",
+        "type": "1 BHK",
+        "name": "Bhabha Bhavan",
+        "area": "710 sqft",
+        "price": 17000,
+        "address": "SVNIT Surat",
+        "image": "./img/home/home-3.jpg"
+    },
+    {
+        "id": 4,
+        "topproduct": true,
+        "city": "Surat",
+        "type": "3 BHK",
+        "name": "Raman Bhavan",
+        "area": "1100 sqft",
+        "price": 31000,
+        "address": "SVNIT Surat",
+        "image": "./img/home/home-4.jpeg"
+    },
+    {
+        "id": 5,
+        "topproduct": true,
+        "city": "Surat",
+        "type": "3 BHK",
+        "name": "Gandhi Bhavan",
+        "area": "1100 sqft",
+        "price": 31000,
+        "address": "SVNIT Surat",
+        "image": "./img/home/home-4.jpeg"
+    }
+]
