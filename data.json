@@ -34,8 +34,8 @@
     },
     {
         "id": 4,
-        "topproduct": true,
-        "city": "Surat",
+        "topproduct": false,
+        "city": "Valsad",
         "type": "3 BHK",
         "name": "Raman Bhavan",
         "area": "1100 sqft",
